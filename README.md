@@ -1,7 +1,7 @@
 # Hello, I'm Hannah-Ann!
 
 💡 Current BSc Software Engineering Student <br/>
-🕸️ Currently working on a DevOps Project
+🕸️ Currently working on a Skincare Machine Learning Application
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
