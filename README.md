@@ -1,6 +1,6 @@
 # Hello, I'm Hannah-Ann!
 
-💡 Current BSc Software Engineering Student <br/>
+💡 BSc Software Engineering Graduate <br/>
 🕸️ Currently working on a Skincare Machine Learning Application
 
 # 💻 Tech Stack:
