@@ -63,9 +63,9 @@ Designed a detection framework for identifying sensitive content in enterprise e
 
 ### 🌱 fun facts
 
-* i love jazz — especially samara joy  
+* i love jazz, especiallllly samara joy  
 * i’m obsessed with skincare science 
-* always learning something new - currently working on crochet 🧶
+* always learning something new !! im currently working on crochet 🧶
 
 ### 📫 connect with me
 
