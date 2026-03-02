@@ -67,7 +67,6 @@ Designed a detection framework for identifying sensitive content in enterprise e
 * i’m obsessed with skincare science 
 * always learning something new !! im currently working on crochet 🧶
 
-### 📫 connect with me
+### 📫 connect 
 
-linkedin: [[here!](https://www.linkedin.com/in/hannahannnanahackman/)]  
-portfolio: work in progress!! 
+[linkedin](https://www.linkedin.com/in/hannahannnanahackman/) \n
